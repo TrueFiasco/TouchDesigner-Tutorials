@@ -1,4 +1,4 @@
-// GLSL TOP for TouchDesigner that rotates 33 points in 4D space
+// GLSL TOP for TouchDesigner that rotates 33 points in 4D space created by truefiasco.org/tesseract-tutorial.html
 // Input texture contains 33 points with XYZW coordinates
 // Rotation order: RWX, WRY, WRZ, then RX, RY, RZ
 
