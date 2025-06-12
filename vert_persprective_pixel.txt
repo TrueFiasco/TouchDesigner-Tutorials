@@ -1,4 +1,4 @@
-//uniform sampler2D inputTex;	// Your 33x1 point cloud
+// pixel 4D perspective created by truefiasco.org/tesseract-tutorial.html
 uniform float fov;			// Field of view in degrees. use 60
 uniform vec2 resolution;	// Resolution of the output TOP. use 33
 uniform float uPerspective; // use 2.3
