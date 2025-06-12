@@ -1,4 +1,4 @@
-// Pixel Shader takes a rgba texture where each pixle is a line rg p0.xy, ba p1.xy
+// Pixel Shader takes a rgba texture where each pixle is a line rg p0.xy, ba p1.xy and outputs a mindist uneven capsule
 //created by truefiasco.org/tesseract-tutorial.html who copied IQs https://www.shadertoy.com/view/4lcBWn
 float cro(in vec2 a, in vec2 b ) { return a.x*b.y - a.y*b.x; }
     
