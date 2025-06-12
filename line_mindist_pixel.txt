@@ -1,4 +1,4 @@
-// Pixel Shader created by truefiasco.org/tesseract-tutorial.html
+// Pixel Shader created by truefiasco.org/tesseract-tutorial.html who copied IQs https://www.shadertoy.com/view/4lcBWn
 float cro(in vec2 a, in vec2 b ) { return a.x*b.y - a.y*b.x; }
     
 float sdUnevenCapsule( in vec2 p, in vec2 pa, in vec2 pb, in float ra, in float rb )
